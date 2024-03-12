@@ -33,6 +33,10 @@ public class Main {
         System.out.println("Desafio Sequência:\n");
         DesafioSequencia.completarSequencias();
 
+        // Desafio Interruptor
+        System.out.println("Desafio Interruptor:\n");
+        DesafioInterruptor.descobrirInterruptores();
+
         // Desafio String
         System.out.println("Desafio String:\n");
         System.out.print("Informe letras ou nome para inverter os caracteres: \n");
